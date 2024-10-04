@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bahzoj.github.io/WsQ/sitemap.WsQ.gz
